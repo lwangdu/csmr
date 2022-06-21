@@ -7,6 +7,6 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-This is UCNRS block theme and build base on Twenty Twenty Two.
+This is the UCNRS block theme, based on the Twenty Twenty Two theme.
 
 
