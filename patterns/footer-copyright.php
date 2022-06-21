@@ -15,9 +15,16 @@
         <p>© <?php echo gmdate('Y'); ?> The Regents of the University of California, All Rights Reserved · <a href="https://www.policy.ucsb.edu/terms-of-use"><?php echo esc_html__('Terms of use', 'ucnrs'); ?></a></p>
         <!-- /wp:paragraph -->
         <!-- wp:paragraph -->
-        <p><a href="#">Facebook</a> · <a href="#">Twitter</a> · <a href="https://www.policy.ucsb.edu/terms-of-use">Instagram</a></p>
-        <!-- /wp:paragraph -->
+        <!-- wp:social-links -->
+        <ul class="wp-block-social-links">
+            <!-- wp:social-link {"url":"#","service":"facebook"} /-->
+
+            <!-- wp:social-link {"url":"#","service":"instagram"} /-->
+        </ul>
+        <!-- /wp:social-links -->
     </div>
-    <!-- /wp:group -->
+
+</div>
+<!-- /wp:group -->
 </div>
 <!-- /wp:group -->
