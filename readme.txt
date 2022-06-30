@@ -9,6 +9,5 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This is the UCNRS block theme, based on the Twenty Twenty Two theme.
 
-Just test get push.
 
 
